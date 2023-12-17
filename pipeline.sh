@@ -77,3 +77,4 @@ cd CS490G-Backend
 nohup node server.js &
 cd ../CS490G-Frontend/react-app
 nohup npm start &
+echo "Done"
