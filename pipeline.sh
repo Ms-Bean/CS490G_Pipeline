@@ -35,8 +35,8 @@ echo "DB_HOST=localhost" > .env
 echo "DB_USER=root" >> .env
 echo "DB_PASS=18C@ctusgr3en" >>.env
 echo "DB_NAME=cs490_database" >> .env
-echo "FRONTEND_URL=http://localhost:3000" >> .env
-echo "BACKEND_URL=http://localhost:3500" >> .env
+echo "FRONTEND_URL=http://thinkcenter.ddns.me:3000" >> .env
+echo "BACKEND_URL=http://thinkcenter.ddns.me:3500" >> .env
 echo "PORT=3500" >> .env
 npm i
 
